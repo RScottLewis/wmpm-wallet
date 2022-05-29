@@ -1,0 +1,21 @@
+[34m🚧 CONFIGURATION 🚧[39m
+[36mRoot URL[39m: https://blockchain.info
+[36mAPI Domain[39m: https://api.blockchain.info
+[36mWallet Helper Domain[39m: [34mhttps://wallet-helper.blockchain.info[39m
+[36mWeb Socket URL[39m: [34mhttps://api.blockchain.info[39m
+[36mSSL Enabled: [39m[34mfalse[39m
+clean-webpack-plugin: /home/scott/blockchain-wallet-v4-frontend/lib has been removed.
+  0% compiling 10% building 0/0 modules 0 active 10% building 0/1 modules 1 active ...ckchain-wallet-v4-frontend/src/index.js                                            10% building 1/1 modules 0 active[34mℹ[39m [90m｢wds｣[39m: SSL Certificate is more than 30 days old. Removing.
+[34mℹ[39m [90m｢wds｣[39m: Generating SSL Certificate
+events.js:170
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use 127.0.0.1:8080
+    at Server.setupListenHandle [as _listen2] (net.js:1258:14)
+    at listenInCluster (net.js:1306:12)
+    at GetAddrInfoReqWrap.doListen [as callback] (net.js:1445:7)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:63:10)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1285:8)
+    at processTicksAndRejections (internal/process/task_queues.js:81:17)

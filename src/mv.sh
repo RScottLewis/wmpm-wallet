@@ -1,0 +1,10 @@
+mv .changelogrc  ..
+mv .circleci  ..
+mv .coveralls.yml  ..
+mv .eslintrc  ..
+mv .github  ..
+mv .gitignore  ..
+mv .idea  ..
+mv .nvmrc  ..
+mv .prettierrc  ..
+mv .release-it.json  ..
