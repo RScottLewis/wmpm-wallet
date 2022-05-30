@@ -1,13 +1,13 @@
 {
-  "name": "blockchain-wallet-v4",
+  "name": "wampum1st-wallet-v4",
   "version": "1.0.0",
   "license": "AGPL-3.0-or-later",
   "private": true,
   "author": {
-    "name": "Blockchain",
-    "url": "https://blockchain.com"
+    "name": "Wampum1st",
+    "url": "https://wampum1st.com"
   },
-  "homepage": "https://github.com/blockchain/blockchain-wallet-v4-frontend",
+  "homepage": "https://github.com/RScottLewis/wmpm-wallet",
   "bugs": {
     "url": "https://github.com/blockchain/blockchain-wallet-v4-frontend/issues"
   },
